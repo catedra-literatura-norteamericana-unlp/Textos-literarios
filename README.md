@@ -1,4 +1,3 @@
 # Textos literarios
-PDFs en versión bilingúe
-
 Traducciones de la cátedra
+PDFs en versión bilingúe
